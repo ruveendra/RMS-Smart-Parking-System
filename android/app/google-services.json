@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "784910396452",
+    "firebase_url": "https://smart-parking-app-c7168-default-rtdb.firebaseio.com",
+    "project_id": "smart-parking-app-c7168",
+    "storage_bucket": "smart-parking-app-c7168.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784910396452:android:e9c4d42120f06c619d7cb1",
+        "android_client_info": {
+          "package_name": "com.codezilla.iot_smart_park"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784910396452-e9v4dtf8efpt1b7tdtidp9k9ogcnfrfr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codezilla.iot_smart_park",
+            "certificate_hash": "924b6fa865cf19768e47cef3bf2ab697ba80013b"
+          }
+        },
+        {
+          "client_id": "784910396452-hs40nkohiv6v33p7vif01edn54lsrvgb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-gWT8TFyCgHpNH6JkkIfPA55vQP7D6Ec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784910396452-hs40nkohiv6v33p7vif01edn54lsrvgb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
